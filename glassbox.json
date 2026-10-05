@@ -1,0 +1,106 @@
+{
+  "slug": "sprinklerclear",
+  "box": 149,
+  "date": "2026-10-07",
+  "title": "SprinklerClear",
+  "question": "How does a water sprinkler work?",
+  "hook": "The tick-tick-tick sprinkler has no motor: its own jet throws an arm aside, a spring swings it back, and every tap turns the head three degrees. Watch that happen in slow motion, see why sprinklers must overlap, and find out why a fire sprinkler never sets off its neighbours.",
+  "thumbText": "HOW A SPRINKLER WORKS",
+  "field": "machines",
+  "minutes": 13,
+  "tags": [
+    "sprinkler",
+    "irrigation",
+    "impact sprinkler",
+    "pressure",
+    "projectile motion",
+    "uniformity",
+    "drip irrigation",
+    "fire sprinkler",
+    "farming",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "No motor, just water",
+      "text": "An impact sprinkler is a riser pipe, a bearing the head turns in, a nozzle tilted up at about 25 degrees, and a spring-loaded arm with a spoon that sits in the jet. Water pressure also squeezes a stack of washers in the bearing, which seals it and gives the friction that holds the head still between taps."
+    },
+    {
+      "title": "Pressure becomes speed, and air decides the throw",
+      "text": "The nozzle turns pressure into speed: v = 0.96 × √(2P/ρ), about 23.6 m/s at 3 bar, the push of a tank 31 m up. With no air that jet would land 47 m away. Drag on the drops cuts it to about 14 m, and makes the best angle about 33 degrees, not 45."
+    },
+    {
+      "title": "Tick: the arm strikes the body",
+      "text": "The jet hits the spoon and flings the arm aside. A spring swings it back and it strikes the anvil on the body, sharing its momentum with the head, which steps round about 3 degrees. That happens about 2.5 times a second. At the end of the arc a trip lever raises a tab, and blows on the tab chatter the head quickly back."
+    },
+    {
+      "title": "One sprinkler waters badly, many water well",
+      "text": "A single sprinkler puts down most of its water close in and little at the rim. Set on a grid about half a wetted width apart, neighbours fill each other in. Christiansen's 1942 coefficient of uniformity scores the evenness: 12 m spacing at 3 bar gives about 90% in this model, and 1 bar leaves dry-centred doughnuts."
+    },
+    {
+      "title": "Flood, sprinkler or drip",
+      "text": "To get the same water to the roots you pump need ÷ efficiency. FAO's guide figures are 60% for flood, 75% for sprinklers and 90% for drip; India's ICAR puts ordinary flood irrigation at only 30 to 50%. For a crop using 5 mm a day on one hectare, that is 83,000 litres by flood against 56,000 by drip."
+    },
+    {
+      "title": "The fire sprinkler is a different machine",
+      "text": "Each fire sprinkler head is a valve held shut by a glass bulb of liquid that shatters at its rated temperature, 68 °C for a red bulb. Every head feels only its own heat, so only those over the fire open: one head was enough in 77% of the fires NFPA counted where sprinklers operated."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Impact sprinkler",
+      "def": "A sprinkler turned by a spring-loaded arm that its own jet throws aside and that strikes the body on its return."
+    },
+    {
+      "term": "Nozzle",
+      "def": "A smooth narrowing that turns water pressure into speed: v = C × √(2P/ρ), with C about 0.96."
+    },
+    {
+      "term": "Pressure head",
+      "def": "Pressure written as a height of water: about 0.1 bar for every metre."
+    },
+    {
+      "term": "Radius of throw",
+      "def": "How far from the sprinkler its farthest drops land. Air drag on the drops sets it."
+    },
+    {
+      "term": "Trip lever and collars",
+      "def": "The lever that flips at each end of the arc and makes a part-circle sprinkler turn back."
+    },
+    {
+      "term": "Coefficient of uniformity (CU)",
+      "def": "Christiansen's score for even watering: 100 × (1 − average miss ÷ average depth). 100% is perfectly even."
+    },
+    {
+      "term": "Application rate",
+      "def": "How fast water is put on the ground, in millimetres an hour. One millimetre is one litre on every square metre."
+    },
+    {
+      "term": "Field application efficiency",
+      "def": "The share of the water put on a field that ends up where roots can use it."
+    },
+    {
+      "term": "Glass bulb",
+      "def": "The liquid-filled capsule that props a fire sprinkler shut and shatters at a set temperature."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "sprinklerclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

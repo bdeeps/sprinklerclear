@@ -1,0 +1,966 @@
+{
+  "title": "The history of the sprinkler",
+  "tagline": "2,000 years from a steam toy that spun in Alexandria to circles of green you can see from an aeroplane.",
+  "intro": "A sprinkler does a simple thing: it breaks a stream of water into drops and spreads them evenly. The idea of a jet that turns its own nozzle is ancient, but a sprinkler needs water under pressure in a pipe, and that only reached homes and farms in the 1800s. From then on two families grew side by side: sprinklers that water lawns and crops, and sprinklers that wait in the ceiling for a fire. This is the story of both, from Alexandria to California to the fields of India.",
+  "eras": [
+    {
+      "id": "spin",
+      "name": "A jet that turns itself",
+      "from": 60,
+      "to": 1800,
+      "color": "#c49bff",
+      "summary": "Hero's steam ball and Segner's water wheel show that a jet pushes back on its nozzle. Nobody yet has piped water to use the idea."
+    },
+    {
+      "id": "pipe",
+      "name": "Water in a pipe",
+      "from": 1806,
+      "to": 1932,
+      "color": "#ffb547",
+      "summary": "Cities lay water mains. Inventors drill holes in pipes to fight fires, patent the first lawn sprinklers, and make a fire sprinkler that opens by itself."
+    },
+    {
+      "id": "beat",
+      "name": "The steady beat",
+      "from": 1933,
+      "to": 1964,
+      "color": "#5ce1a9",
+      "summary": "A citrus grower's impact sprinkler, a way to measure evenness, and a pipe on wheels that walks round a field turn the sprinkler into a farm machine."
+    },
+    {
+      "id": "drop",
+      "name": "Every drop counted",
+      "from": 1965,
+      "to": 2003,
+      "color": "#8ef0ff",
+      "summary": "Drip irrigation arrives as a rival. Rain guns, gear drives and low-pressure pivots follow, and fire sprinklers learn to act faster."
+    },
+    {
+      "id": "india",
+      "name": "Per drop, more crop",
+      "from": 2004,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "India puts public money behind sprinklers and drippers on millions of small farms, and physicists settle an old sprinkler puzzle."
+    }
+  ],
+  "events": [
+    {
+      "year": 60,
+      "date": "1st century CE",
+      "era": "spin",
+      "art": "rocket",
+      "key": true,
+      "title": "A ball that spins on its own steam",
+      "who": "Hero of Alexandria",
+      "where": "Alexandria, Egypt",
+      "country": "Egypt",
+      "text": "Hero described the aeolipile: a hollow ball on a pivot, with two bent nozzles pointing opposite ways. Steam from a boiling pot below rushed out of the nozzles and the ball spun round. The Roman writer Vitruvius had mentioned a device of the same name about a century earlier, so Hero may not have been first.",
+      "why": "It is the first recorded reaction engine. A jet goes one way, the nozzle is pushed the other way: the same push turns a spinning lawn sprinkler.",
+      "box": "jet",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1750,
+      "date": "c. 1750",
+      "era": "spin",
+      "art": "hydraulic",
+      "title": "Segner's water wheel",
+      "who": "Johann Andreas Segner",
+      "where": "Göttingen, Germany",
+      "country": "Germany",
+      "text": "Segner, a professor born in what is now Bratislava, built a wheel driven by water in place of steam. Water ran down into an upright cylinder and left through bent arms at the bottom. The jets pushed the arms backwards and the wheel turned.",
+      "why": "Swap Hero's steam for water and you have the spinning-arm sprinkler. The Segner wheel was also an ancestor of the water turbine.",
+      "box": "jet",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1812,
+      "date": "1812",
+      "era": "pipe",
+      "art": "building",
+      "title": "A theatre with holes in its pipes",
+      "who": "William Congreve",
+      "where": "Theatre Royal, Drury Lane, London, England",
+      "country": "United Kingdom",
+      "text": "After the old theatre burned down, Colonel William Congreve patented a way to protect the new one. Pipes pierced with rows of small holes ran through the building, fed from a large airtight tank. If a fire broke out, someone opened a valve outside and water rained from the pipes. Accounts say the system was fitted when the theatre was rebuilt in 1812.",
+      "why": "It is widely described as the first sprinkler system in a building. But it was not automatic: a person had to notice the fire and turn the valve.",
+      "box": "fire",
+      "sources": [
+        3,
+        5
+      ]
+    },
+    {
+      "year": 1871,
+      "date": "19 December 1871",
+      "era": "pipe",
+      "art": "scroll",
+      "key": true,
+      "title": "A patent for watering the lawn",
+      "who": "Joseph Lessler",
+      "where": "Buffalo, New York, USA",
+      "country": "USA",
+      "text": "Joseph Lessler received US patent 121,949 for an 'improvement in lawn-sprinklers'. It was a stand with a swivelling nozzle, joined to the hydrant by a hose that could be coiled in a basket. He wrote that it would sprinkle lawns and gardens without the constant attention of an attendant.",
+      "why": "It is often called the first American lawn sprinkler patent. Patents for garden and hose sprinklers with lower numbers were granted earlier the same year, so 1871 is best seen as the year the idea arrived. Piped water under pressure was reaching more and more houses, and a sprinkler is no use without it.",
+      "box": "anatomy",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1874,
+      "date": "11 August 1874",
+      "era": "pipe",
+      "art": "flame",
+      "key": true,
+      "title": "A sprinkler that opens by itself",
+      "who": "Henry S. Parmelee",
+      "where": "New Haven, Connecticut, USA",
+      "country": "USA",
+      "text": "Parmelee ran the Mathushek piano factory, full of dry wood and varnish, and wanted cheaper fire insurance. He patented a sprinkler head held shut by a cap soldered in place. In a fire the solder melted, the cap fell away and water sprayed out. Philip W. Pratt of Abington, Massachusetts, had patented an automatic sprinkler in 1872, which is why some call Parmelee's the second.",
+      "why": "Parmelee's was the first automatic sprinkler head to be made and fitted in numbers. Heat alone opens it, and only above the fire.",
+      "box": "fire",
+      "sources": [
+        9,
+        8,
+        3
+      ]
+    },
+    {
+      "year": 1881,
+      "date": "1881–1890",
+      "era": "pipe",
+      "art": "wrench",
+      "key": true,
+      "title": "Grinnell makes it dependable",
+      "who": "Frederick Grinnell",
+      "where": "Providence, Rhode Island, USA",
+      "country": "USA",
+      "text": "Grinnell's pipe company made Parmelee's sprinklers under licence. He then designed a better one, more sensitive to heat and tighter against leaks, and patented it in 1881. In 1890 he brought out the glass disc sprinkler. He took out about 40 patents on sprinklers in all.",
+      "why": "Grinnell turned a clever idea into a product that factory owners and insurers trusted. A sprinkler has to stay shut for years and still open at once.",
+      "box": "fire",
+      "sources": [
+        11,
+        10,
+        4
+      ]
+    },
+    {
+      "year": 1883,
+      "date": "1883",
+      "era": "pipe",
+      "art": "scroll",
+      "title": "Mach's puzzle: what if it sucks?",
+      "who": "Ernst Mach",
+      "where": "Prague (today Czechia)",
+      "country": "Czechia",
+      "text": "In his book The Science of Mechanics, the physicist Ernst Mach described a little reaction wheel that spins when air is blown out of it. Then he asked what happens when air is sucked in. He reported that it showed no distinct rotation.",
+      "why": "It is the first written form of the 'reverse sprinkler' question. Physicists argued about it for the next 140 years.",
+      "box": "jet",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "c. 1894",
+      "era": "pipe",
+      "art": "leaf",
+      "title": "Rain from a pipe on posts",
+      "who": "Charles Skinner",
+      "where": "Troy, Ohio, USA",
+      "country": "USA",
+      "text": "Charles Skinner, a grower in Ohio, set long pipes on wooden posts above his crops, with a small nozzle every three feet or so. Turning the pipe on its supports swept the row of jets from side to side. Trade histories date his patent to 1894. His Skinner Irrigation Company sold the 'Skinner System' to market gardens, nurseries and golf courses for decades.",
+      "why": "It was one of the first sprinkler systems for crops, and it brought overhead watering from the lawn to the field.",
+      "box": "farm",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "6 November 1896",
+      "era": "pipe",
+      "art": "scales",
+      "title": "One rule book for sprinklers",
+      "who": "Insurers and a pipe maker, later the National Fire Protection Association",
+      "where": "Boston and New York, USA",
+      "country": "USA",
+      "text": "In 1895 there were nine different sets of rules for sprinkler pipes within 100 miles of Boston. Fitters could not keep up. A group of insurance men and a pipe maker met to agree on one standard. They published it in 1896 and founded the National Fire Protection Association that November.",
+      "why": "Those rules grew into NFPA 13, the standard still used to design fire sprinkler systems around the world.",
+      "box": "fire",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1921,
+      "date": "early 1920s",
+      "era": "pipe",
+      "art": "thermometer",
+      "title": "A glass bulb that bursts",
+      "who": "Engineers of the Grinnell company, with advice from Thomas Edison",
+      "where": "Providence, Rhode Island, USA",
+      "country": "USA",
+      "text": "Grinnell's engineers replaced the solder link with a small sealed bulb of quartz glass filled with liquid. Heat makes the liquid swell until the bulb shatters and lets the water out. On 20 April 1921 a Grinnell man visited Thomas Edison's laboratory to ask which liquid to use. The Science Museum in London holds a Grinnell 'quartzoid' bulb sprinkler dated 1927.",
+      "why": "The coloured glass bulb is now the most familiar part of a fire sprinkler. It does not corrode, and the liquid sets the temperature at which it opens.",
+      "box": "fire",
+      "sources": [
+        16,
+        11
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "1933",
+      "era": "beat",
+      "art": "hammer",
+      "key": true,
+      "title": "The sprinkler that goes tick, tick, tick",
+      "who": "Orton Englehart",
+      "where": "Glendora, California, USA",
+      "country": "USA",
+      "text": "Englehart grew citrus and wanted a sprinkler that turned slowly and threw water far. In 1933 he built one with a spring-loaded arm. The jet knocks the arm aside, the spring swings it back, and it strikes the sprinkler body and nudges it round a little. He applied for a patent on 18 December 1933 and it was granted as US 1,997,901 on 16 April 1935. The patent spells his name Englehart. The landmark plaque spells it Englehardt.",
+      "why": "A slow turn gives the jet time to reach its full distance. The impact sprinkler watered large areas evenly with one moving part, and it spread across the world's farms.",
+      "box": "impact",
+      "sources": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "13 October 1935",
+      "era": "beat",
+      "art": "person",
+      "title": "Made in the family barn",
+      "who": "Clement and Mary Elizabeth LaFetra",
+      "where": "Glendora, California, USA",
+      "country": "USA",
+      "text": "Englehart preferred farming to business. His friend Clement LaFetra had urged him to patent the sprinkler, and Englehart assigned all the rights to Clement and his wife Mary Elizabeth. Production began in the LaFetra family barn on 13 October 1935. They named the company Rain Bird.",
+      "why": "A husband and wife turned a neighbour's invention into the best known name in sprinklers.",
+      "box": "impact",
+      "sources": [
+        18,
+        20
+      ]
+    },
+    {
+      "year": 1941,
+      "date": "early 1940s",
+      "era": "beat",
+      "art": "flask",
+      "title": "Feynman floods the cyclotron lab",
+      "who": "Richard Feynman and Edward Creutz",
+      "where": "Princeton University, New Jersey, USA",
+      "country": "USA",
+      "text": "As a student, Richard Feynman argued with friends about Mach's puzzle. He tested it in the cyclotron laboratory with a tiny sprinkler inside a big glass bottle, using air pressure to push water backwards through it. Edward Creutz, who was there, recalled a small tremor and then no movement. Feynman turned up the pressure and the bottle exploded. He told the story in his 1985 book 'Surely You're Joking, Mr. Feynman!' and did not give the answer.",
+      "why": "The puzzle got his name, and thousands of physics students have argued about it since.",
+      "box": "jet",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1942,
+      "date": "October 1942",
+      "era": "beat",
+      "art": "scroll",
+      "key": true,
+      "title": "A number for evenness",
+      "who": "J. E. Christiansen",
+      "where": "University of California, USA",
+      "country": "USA",
+      "text": "Christiansen, an irrigation engineer, set out rows of cans under sprinklers and measured the water each one caught. In Bulletin 670, 'Irrigation by Sprinkling', he turned the readings into one number: the uniformity coefficient. It is 100 per cent when every can catches the same amount, and it falls as the cans differ more from the average.",
+      "why": "For the first time, growers and makers could compare sprinklers and spacings with a number. Christiansen's coefficient is still used to design sprinkler systems.",
+      "box": "field",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "22 July 1952",
+      "era": "beat",
+      "art": "plane",
+      "key": true,
+      "title": "A pipe that walks in a circle",
+      "who": "Frank Zybach",
+      "where": "Strasburg, Colorado, USA",
+      "country": "USA",
+      "text": "Zybach, a tenant farmer and tinkerer, built a long pipe carried on wheeled towers that crept round a central well, sprinkling as it went. The water pressure itself drove the towers. He applied for a patent on 27 June 1949 and received US 2,604,359 on 22 July 1952. Accounts differ on when he first built it: some say 1940, others 1947 or 1948.",
+      "why": "The centre pivot waters a whole field with no one moving pipes. It is the reason farmland looks like rows of green circles from an aeroplane.",
+      "box": "farm",
+      "sources": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "1954",
+      "era": "beat",
+      "art": "gear",
+      "title": "Valley takes the pivot to market",
+      "who": "Robert Daugherty and Valley Manufacturing",
+      "where": "Valley, Nebraska, USA",
+      "country": "USA",
+      "text": "Zybach and his partner A. E. Trowbridge made pivots in Columbus, Nebraska, and sold only 19 in two years. In 1954 they sold the manufacturing rights to Robert Daugherty's small firm, Valley Manufacturing. Its engineers spent the next ten years making the machine taller, stronger and more reliable. The firm became Valmont Industries.",
+      "why": "By 1992 more than 110,000 centre pivots were watering about 14 million acres in the United States alone.",
+      "box": "farm",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1963–1978",
+      "era": "beat",
+      "art": "earth",
+      "title": "Betty LaFetra takes Rain Bird worldwide",
+      "who": "Mary Elizabeth 'Betty' LaFetra",
+      "where": "Glendora and Azusa, California, USA",
+      "country": "USA",
+      "text": "Clement LaFetra died in 1963. Mary Elizabeth LaFetra, who had owned the sprinkler rights with him since the start, became the company's second chief executive and led it until 1978. Under her the company began selling around the world.",
+      "why": "A woman ran one of the largest irrigation companies in the world for 15 years, at a time when very few women led engineering firms.",
+      "box": "impact",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "10 August 1965",
+      "era": "drop",
+      "art": "waterdrop",
+      "title": "Drip: the sprinkler's quiet rival",
+      "who": "Simcha Blass, Yeshayahu Blass and Kibbutz Hatzerim",
+      "where": "Negev desert, Israel",
+      "country": "Israel",
+      "text": "In the 1930s a farmer showed the water engineer Simcha Blass a big tree that grew 'without water'. A leaking pipe joint was feeding its roots drop by drop. Years later, with cheap plastic pipe to hand, Blass and his son designed a dripper that lets water out slowly through a long narrow channel. On 10 August 1965 they signed a contract with Kibbutz Hatzerim to found Netafim. Production began in 1966.",
+      "why": "Drip puts water at the roots, not in the air. Sprinkler and drip together are now called micro-irrigation, and they compete for the same fields.",
+      "box": "farm",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "1972",
+      "era": "drop",
+      "art": "wave",
+      "title": "The rain gun",
+      "who": "Nelson Irrigation Corporation",
+      "where": "Walla Walla, Washington, USA",
+      "country": "USA",
+      "text": "The Nelson family had made hose fittings and sprinklers in Peoria, Illinois, since 1911. In 1972 they started a new company in Walla Walla. Its first products included the Big Gun: a very large sprinkler that throws one heavy jet tens of metres.",
+      "why": "One rain gun can do the work of dozens of small sprinklers. India's micro-irrigation scheme lists rain guns that throw 24 to 36 metres, for watering large areas in a short time.",
+      "box": "farm",
+      "sources": [
+        26,
+        27,
+        42
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "1975–1981",
+      "era": "drop",
+      "art": "flame",
+      "title": "Fire sprinklers come home",
+      "who": "National Fire Protection Association and Grinnell",
+      "where": "USA",
+      "country": "USA",
+      "text": "For a century, fire sprinklers protected mills, warehouses and shops, not houses. In May 1975 the NFPA adopted a standard for sprinklers in one- and two-family homes, called NFPA 13D. In 1981 Grinnell received the first listing for a residential sprinkler, built to open faster in a small room.",
+      "why": "Most fire deaths happen at home. A quick-opening sprinkler is meant to keep a room survivable until people get out.",
+      "box": "fire",
+      "sources": [
+        28,
+        4
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "1978–1981",
+      "era": "drop",
+      "art": "leaf",
+      "title": "Dropping the water low",
+      "who": "William Lyle and James Bordovsky",
+      "where": "Halfway, Texas, USA",
+      "country": "USA",
+      "text": "Fuel prices had soared and the Ogallala aquifer was sinking. At a research station on the Texas High Plains, Lyle and Bordovsky hung tubes down from a moving pivot so that water was placed gently between the crop rows at low pressure. They began in 1978 and published the method, called LEPA, in 1981.",
+      "why": "Spray thrown high into hot wind partly evaporates. Putting the water low saves water and pumping energy.",
+      "box": "farm",
+      "sources": [
+        29,
+        24
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "1981–1983",
+      "era": "drop",
+      "art": "gear",
+      "title": "Gears take over the lawn",
+      "who": "Edwin Hunter and Paul Hunter",
+      "where": "San Marcos, California, USA",
+      "country": "USA",
+      "text": "Edwin Hunter had sold gear-driven sprinklers since about 1960 through an earlier firm, Moist O'Matic, which he sold to Toro in 1962. In 1981 he and his son Paul founded Hunter Industries to make the PGP, a small pop-up sprinkler turned by a water-driven turbine and a train of gears. The company dates its launch to 1983.",
+      "why": "A gear drive is quiet and sealed against grit. On lawns and sports fields it largely replaced the ticking impact sprinkler.",
+      "box": "anatomy",
+      "sources": [
+        30,
+        31
+      ]
+    },
+    {
+      "year": 1987,
+      "date": "1987–1988",
+      "era": "drop",
+      "art": "person",
+      "title": "Micro-irrigation made in Jalgaon",
+      "who": "Bhavarlal Jain",
+      "where": "Jalgaon, Maharashtra, India",
+      "country": "India",
+      "text": "Bhavarlal Jain had sold tractors, pipes and sprinkler sets to farmers in Maharashtra since the 1960s, and began making PVC pipe in 1980. In 1987–88 he set up a company to make and promote drip irrigation in India. Jain Irrigation grew into one of the largest micro-irrigation companies in the world.",
+      "why": "Drip lines and sprinklers made in India, at Indian prices, put them within reach of small farmers.",
+      "box": "farm",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "1980s",
+      "era": "drop",
+      "art": "block",
+      "title": "Sprinklers that beat a warehouse fire",
+      "who": "Factory Mutual Research Corporation",
+      "where": "Massachusetts, USA",
+      "country": "USA",
+      "text": "Tall racks of boxed goods burn too fiercely for ordinary sprinklers, which only hold a fire back. In the 1980s the insurer's laboratory Factory Mutual, working with sprinkler makers, developed the ESFR sprinkler: early suppression, fast response. It opens quickly and drops large, heavy drops that punch down through the flames. The test standard for it, UL 1767, was first published in 1990.",
+      "why": "It was a new aim for a fire sprinkler: to put the fire out, not just to control it.",
+      "box": "fire",
+      "sources": [
+        34,
+        3
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "January 2006",
+      "era": "india",
+      "art": "waterdrop",
+      "title": "India backs drip and sprinkler",
+      "who": "Department of Agriculture and Cooperation, Government of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "A national Task Force on Micro Irrigation, chaired by the Chief Minister of Andhra Pradesh, reported in January 2004 that about 69.5 million hectares of India could use drip or sprinklers. In January 2006 the central government launched a scheme to share the cost of these systems with farmers.",
+      "why": "A sprinkler set costs money before it saves any water. A subsidy lets a small farmer make the switch.",
+      "box": "farm",
+      "sources": [
+        36,
+        35,
+        37
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "June 2010",
+      "era": "india",
+      "art": "leaf",
+      "title": "A national mission",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "The 2006 scheme was scaled up into the National Mission on Micro Irrigation, which ran until 2013–14. In 2014–15 it became part of a wider mission on sustainable farming, under the name On Farm Water Management.",
+      "why": "The names kept changing but the idea stayed: help farmers swap flooded furrows for drippers and sprinklers.",
+      "box": "farm",
+      "sources": [
+        36,
+        42
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "1 July 2015",
+      "era": "india",
+      "art": "earth",
+      "key": true,
+      "title": "Per Drop More Crop",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "The Cabinet approved the Pradhan Mantri Krishi Sinchayee Yojana on 1 July 2015, with a planned Rs 50,000 crore over five years. Its mottoes were 'Har Khet Ko Pani', water for every field, and 'Per Drop More Crop'. The Per Drop More Crop part pays 55 per cent of the cost of a drip or sprinkler system for small and marginal farmers and 45 per cent for others, for up to five hectares each.",
+      "why": "It made the sprinkler and the dripper a national policy in a country where farming uses most of the water.",
+      "box": "farm",
+      "sources": [
+        36,
+        38,
+        40,
+        42
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "16 May 2018",
+      "era": "india",
+      "art": "share",
+      "title": "A fund for the states",
+      "who": "Government of India and NABARD",
+      "where": "India",
+      "country": "India",
+      "text": "The Cabinet approved a Micro Irrigation Fund of Rs 5,000 crore, held by the farm bank NABARD: Rs 2,000 crore for 2018–19 and Rs 3,000 crore for 2019–20. States can borrow from it at a reduced rate of interest to add to the subsidy or to build shared systems.",
+      "why": "By January 2018 about 9.68 million hectares in India were under micro-irrigation from all sources. The fund was meant to speed that up.",
+      "box": "farm",
+      "sources": [
+        39,
+        37
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "26 January 2024",
+      "era": "india",
+      "art": "trophy",
+      "key": true,
+      "title": "The reverse sprinkler is solved",
+      "who": "Kaizhe Wang, Brennan Sprinkle, Mingxuan Zuo and Leif Ristroph",
+      "where": "New York University, USA",
+      "country": "USA",
+      "text": "A team at New York University floated an S-shaped sprinkler on a bearing with almost no friction and made it suck water in. It turned steadily, in the opposite direction to a normal sprinkler and about 50 times more slowly. The cause was inside: the two streams entering the arms meet in the middle, but not exactly head on, and that gives a small twist. One of the authors really is named Sprinkle.",
+      "why": "It answered the question Mach asked in 1883 and Feynman made famous, with an experiment and with mathematics that agree.",
+      "box": "jet",
+      "sources": [
+        43,
+        44,
+        12
+      ]
+    },
+    {
+      "year": 2026,
+      "date": "July 2026",
+      "era": "india",
+      "art": "leaf",
+      "title": "115 lakh hectares",
+      "who": "Farmers across India",
+      "where": "India",
+      "country": "India",
+      "text": "By July 2026, Per Drop More Crop had brought 115 lakh hectares (11.5 million hectares) under drip and sprinkler since 2015–16, about 8 per cent of the land India sows. Karnataka, Tamil Nadu, Gujarat, Maharashtra and Andhra Pradesh have added the most. A count in March 2025 showed sprinklers slightly ahead of drip: 50.60 lakh hectares against 46.37.",
+      "why": "In eleven years the area added was larger than the whole of Portugal.",
+      "box": "farm",
+      "sources": [
+        42,
+        40,
+        41
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Recorded reaction engine",
+      "value": "1st century CE",
+      "who": "Hero of Alexandria's aeolipile"
+    },
+    {
+      "label": "Sprinkler system in a building (not automatic)",
+      "value": "1812",
+      "who": "William Congreve, Theatre Royal, Drury Lane (widely credited)"
+    },
+    {
+      "label": "US patent often called the first for a lawn sprinkler",
+      "value": "19 December 1871",
+      "who": "Joseph Lessler, Buffalo, New York"
+    },
+    {
+      "label": "Automatic fire sprinkler head made in numbers",
+      "value": "1874",
+      "who": "Henry S. Parmelee, New Haven"
+    },
+    {
+      "label": "Shared rule book for fire sprinklers",
+      "value": "1896",
+      "who": "The group that founded the NFPA"
+    },
+    {
+      "label": "Impact sprinkler",
+      "value": "1933",
+      "who": "Orton Englehart, Glendora, California"
+    },
+    {
+      "label": "Uniformity coefficient",
+      "value": "1942",
+      "who": "J. E. Christiansen, University of California"
+    },
+    {
+      "label": "Patent for a centre pivot that drives itself",
+      "value": "22 July 1952",
+      "who": "Frank Zybach, Colorado"
+    },
+    {
+      "label": "Central scheme for micro-irrigation in India",
+      "value": "January 2006",
+      "who": "Government of India"
+    },
+    {
+      "label": "Clear answer to the reverse sprinkler puzzle",
+      "value": "2024",
+      "who": "Wang, Sprinkle, Zuo and Ristroph, New York University"
+    }
+  ],
+  "people": [
+    {
+      "name": "Hero of Alexandria",
+      "life": "c. 10 – c. 70 CE",
+      "role": "Engineer and mathematician",
+      "from": "Roman Egypt",
+      "note": "Described the aeolipile, a ball spun by its own jets of steam."
+    },
+    {
+      "name": "Johann Andreas Segner",
+      "life": "1704 – 1777",
+      "role": "Physician, mathematician and physicist",
+      "from": "Born in Pressburg (today Bratislava); worked in Germany",
+      "note": "Built a wheel turned by jets of water, the ancestor of the spinning sprinkler."
+    },
+    {
+      "name": "Henry S. Parmelee",
+      "life": "c. 1846 – 1902",
+      "role": "Piano maker and inventor",
+      "from": "USA",
+      "note": "Patented an automatic sprinkler head in 1874 to protect his piano factory."
+    },
+    {
+      "name": "Frederick Grinnell",
+      "life": "1836 – 1905",
+      "role": "Engineer and manufacturer",
+      "from": "USA",
+      "note": "Improved the automatic fire sprinkler in 1881 and 1890 and took out about 40 patents on it."
+    },
+    {
+      "name": "Orton Englehart",
+      "life": "active 1930s",
+      "role": "Citrus grower and inventor",
+      "from": "USA",
+      "note": "Invented the impact sprinkler in 1933, then went back to farming."
+    },
+    {
+      "name": "Mary Elizabeth LaFetra",
+      "life": "led Rain Bird 1963–1978",
+      "role": "Co-founder and chief executive of Rain Bird",
+      "from": "USA",
+      "note": "Owned the impact sprinkler rights with her husband Clement from 1935, and later led the company as it went global."
+    },
+    {
+      "name": "J. E. Christiansen",
+      "life": "active 1930s–1960s",
+      "role": "Irrigation engineer",
+      "from": "USA",
+      "note": "Gave sprinkler irrigation its measure of evenness, the uniformity coefficient, in 1942."
+    },
+    {
+      "name": "Frank Zybach",
+      "life": "active 1940s–1950s",
+      "role": "Tenant farmer and inventor",
+      "from": "USA",
+      "note": "Patented the self-propelled centre pivot in 1952."
+    },
+    {
+      "name": "Simcha Blass",
+      "life": "1897 – 1982",
+      "role": "Water engineer",
+      "from": "Israel (born in Warsaw)",
+      "note": "Developed the first practical drip emitter and co-founded Netafim in 1965."
+    },
+    {
+      "name": "Bhavarlal Jain",
+      "life": "1937 – 2016",
+      "role": "Founder of Jain Irrigation",
+      "from": "India",
+      "note": "Pioneered micro-irrigation manufacturing in India. Awarded the Padma Shri in 2008."
+    }
+  ],
+  "series": [
+    {
+      "id": "pdmc",
+      "title": "Land brought under drip and sprinkler by India's Per Drop More Crop scheme",
+      "unit": "million hectares",
+      "log": false,
+      "after": "india",
+      "caption": "The running total since the scheme began in 2015–16, from official Government of India figures. One lakh hectares is 0.1 million hectares.",
+      "points": [
+        {
+          "year": 2015,
+          "value": 0,
+          "label": "Scheme begins in 2015–16"
+        },
+        {
+          "year": 2024,
+          "value": 8.35,
+          "label": "83.46 lakh hectares by February 2024 (Press Information Bureau)"
+        },
+        {
+          "year": 2025,
+          "value": 10.68,
+          "label": "106.75 lakh hectares on 31 October 2025 (Lok Sabha reply)"
+        },
+        {
+          "year": 2026,
+          "value": 11.5,
+          "label": "115 lakh hectares as of July 2026 (Press Information Bureau)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The first Rain Bird sprinklers were made in a family barn in Glendora, California. Production began on 13 October 1935.",
+    "A sprinkler that sucks water in does spin, but backwards and about 50 times more slowly. It took until 2024 to show it.",
+    "In 1895 there were nine different sets of rules for fire sprinkler pipes within 100 miles of Boston. Sorting that out created the NFPA.",
+    "Frank Zybach's first centre pivots were driven by the same water they sprinkled, with no engine and no electricity.",
+    "Under India's Per Drop More Crop scheme, sprinklers covered slightly more land than drip by March 2025: 50.60 lakh hectares against 46.37."
+  ],
+  "sources": [
+    {
+      "title": "Aeolipile",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aeolipile"
+    },
+    {
+      "title": "Aeolipile",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/technology/aeolipile"
+    },
+    {
+      "title": "Segner wheel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Segner_wheel"
+    },
+    {
+      "title": "Fire sprinkler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fire_sprinkler"
+    },
+    {
+      "title": "Fire sprinkler system",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fire_sprinkler_system"
+    },
+    {
+      "title": "The complete history of fire sprinklers: from 1812 to modern systems",
+      "publisher": "Canute LLP",
+      "url": "https://canutesoft.com/off-the-main-track/history-of-fire-sprinkler-systems"
+    },
+    {
+      "title": "US Patent 121,949: Improvement in lawn-sprinklers (Joseph Lessler, 19 December 1871)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US121949"
+    },
+    {
+      "title": "Lawn sprinkler",
+      "publisher": "Encyclopedia.com (How Products Are Made)",
+      "url": "https://www.encyclopedia.com/manufacturing/news-wires-white-papers-and-books/lawn-sprinkler"
+    },
+    {
+      "title": "Henry S. Parmelee",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry_S._Parmelee"
+    },
+    {
+      "title": "August 11: A piano maker's play to cut insurance rates nets him millions",
+      "publisher": "Today in Connecticut History (Office of the Connecticut State Historian)",
+      "url": "https://todayincthistory.com/2023/08/11/august-11-a-piano-makers-play-to-cut-insurance-rates-nets-him-millions/"
+    },
+    {
+      "title": "Frederick Grinnell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Frederick_Grinnell"
+    },
+    {
+      "title": "Sprinklers in the collection, including the Grinnell sprinkler of 1881 and the Grinnell quartzoid bulb sprinkler of 1927",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/search/objects/object_type/sprinkler"
+    },
+    {
+      "title": "Feynman sprinkler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Feynman_sprinkler"
+    },
+    {
+      "title": "Irrigating old style: the Skinner system",
+      "publisher": "Farm Collector",
+      "url": "https://www.farmcollector.com/equipment/irrigating-old-style-the-skinner-system/"
+    },
+    {
+      "title": "Global rainmakers: a look back on the history of irrigation manufacturing",
+      "publisher": "Spudman, March 2012",
+      "url": "https://spudman.com/article/global-rainmakers-spudman-looks-back-on-the-history-of-irrigation-manufactu/"
+    },
+    {
+      "title": "National Fire Protection Association",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/National_Fire_Protection_Association"
+    },
+    {
+      "title": "Illuminating safety with Thomas Edison",
+      "publisher": "Johnson Controls",
+      "url": "https://www.johnsoncontrols.com/building-insights/feature-story/illuminating-safety-with-thomas-edison"
+    },
+    {
+      "title": "US Patent 1,997,901: Water sprinkler (Orton H. Englehart, filed 18 December 1933, granted 16 April 1935)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US1997901A/en"
+    },
+    {
+      "title": "Rain Bird Impact Drive Sprinkler Head: historic landmark, dedicated 1990",
+      "publisher": "American Society of Agricultural and Biological Engineers",
+      "url": "https://asabe.org/About-Us/History/ASABE-Historic-Landmarks/Rain-Bird-Impact-Drive-Sprinkler-Head-1990"
+    },
+    {
+      "title": "Impact sprinkler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Impact_sprinkler"
+    },
+    {
+      "title": "Rain Bird",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rain_Bird"
+    },
+    {
+      "title": "Irrigation by Sprinkling, Bulletin 670 (J. E. Christiansen, October 1942)",
+      "publisher": "University of California Agricultural Experiment Station, via Internet Archive",
+      "url": "https://archive.org/details/irrigationbyspri670chri"
+    },
+    {
+      "title": "US Patent 2,604,359: Self-propelled sprinkling irrigating apparatus (Frank L. Zybach, filed 27 June 1949, granted 22 July 1952)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2604359A/en"
+    },
+    {
+      "title": "Center Pivot Irrigation: historic landmark, dedicated 1993",
+      "publisher": "American Society of Agricultural and Biological Engineers",
+      "url": "https://asabe.org/About-Us/History/ASABE-Historic-Landmarks/Center-Pivot-Irrigation-1993"
+    },
+    {
+      "title": "Center-pivot irrigation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Center-pivot_irrigation"
+    },
+    {
+      "title": "Simcha Blass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Simcha_Blass"
+    },
+    {
+      "title": "About Nelson Irrigation",
+      "publisher": "Nelson Irrigation Corporation",
+      "url": "https://www.nelsonirrigation.com/about"
+    },
+    {
+      "title": "History",
+      "publisher": "Nelson Irrigation Corporation",
+      "url": "https://nelsonirrigation.com/history"
+    },
+    {
+      "title": "NISTIR 6941: residential sprinkler systems",
+      "publisher": "National Institute of Standards and Technology",
+      "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir6941.pdf"
+    },
+    {
+      "title": "LEPA irrigation: history and results (J. P. Bordovsky)",
+      "publisher": "Kansas State University, Central Plains Irrigation Conference",
+      "url": "https://www.ksre.k-state.edu/irrigate/cptt/Bordovsky13117Final.pdf"
+    },
+    {
+      "title": "Hunter Industries",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hunter_Industries"
+    },
+    {
+      "title": "Ed Hunter: life, ingenuity and impact",
+      "publisher": "Hunter Industries",
+      "url": "https://www.hunterirrigation.com/news/ed-hunter-life-ingenuity-and-impact"
+    },
+    {
+      "title": "Bhavarlal Jain",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhavarlal_Jain"
+    },
+    {
+      "title": "Jain Irrigation Systems",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jain_Irrigation_Systems"
+    },
+    {
+      "title": "US Patent 6,502,643: Low pressure, early suppression fast response sprinklers (background section)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US6502643"
+    },
+    {
+      "title": "National Mission on Micro Irrigation: operational guidelines (2010)",
+      "publisher": "Government of India, Ministry of Agriculture",
+      "url": "https://uttarakhandaudit.uk.gov.in/files/doc_1791_national-mision-on-micro-irrigation-guidelines.pdf"
+    },
+    {
+      "title": "Micro irrigation under Pradhan Mantri Krishi Sinchayee Yojana: about us",
+      "publisher": "Government of India, pmksy.gov.in",
+      "url": "https://pmksy.gov.in/microirrigation/Aboutus.aspx"
+    },
+    {
+      "title": "Lok Sabha Unstarred Question No. 2359, answered 2 January 2018: Micro irrigation",
+      "publisher": "Government of India, Ministry of Agriculture and Farmers Welfare",
+      "url": "https://sansad.in/getFile/loksabhaquestions/annex/13/AU2359.pdf?source=pqals"
+    },
+    {
+      "title": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY): Cabinet approval of 1 July 2015",
+      "publisher": "narendramodi.in (text of the Government of India release)",
+      "url": "https://www.narendramodi.in/pradhan-mantri-krishi-sinchayee-yoiana-pmksy--175205"
+    },
+    {
+      "title": "Cabinet approves Micro Irrigation Fund with NABARD (16 May 2018)",
+      "publisher": "Indian Cooperative (text of the Government of India release)",
+      "url": "https://www.indiancooperative.com/co-op-news-snippets/nabard-cabinet-approves-micro-irrigation-fund/"
+    },
+    {
+      "title": "Lok Sabha Unstarred Question No. 2767, answered 18 March 2025: Drip and sprinkler irrigation through PMKSY",
+      "publisher": "Government of India, Ministry of Agriculture and Farmers Welfare",
+      "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/184/AU2767_zvN42a.pdf?source=lsapps"
+    },
+    {
+      "title": "Lok Sabha Starred Question No. 23, answered 2 December 2025: Agricultural schemes",
+      "publisher": "Government of India, Ministry of Agriculture and Farmers Welfare",
+      "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AS23_qnphui.pdf?source=pqals"
+    },
+    {
+      "title": "Water-smart farming with Per Drop More Crop (29 August 2026)",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc_9732_20260829_12330401.pdf"
+    },
+    {
+      "title": "Centrifugal Flows Drive Reverse Rotation of Feynman's Sprinkler (Wang, Sprinkle, Zuo and Ristroph, 26 January 2024)",
+      "publisher": "Physical Review Letters 132, 044003",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.044003"
+    },
+    {
+      "title": "Scientists solve the reverse sprinkler problem (New York University release)",
+      "publisher": "ScienceDaily, 29 January 2024",
+      "url": "https://sciencedaily.com/releases/2024/01/240129122359.htm"
+    },
+    {
+      "title": "Per Drop More Crop: 83.46 lakh hectares covered under micro irrigation from 2015-16 (release of 6 February 2024)",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2003188"
+    }
+  ]
+}

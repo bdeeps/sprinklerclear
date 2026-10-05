@@ -1,0 +1,126 @@
+{
+  "slug": "sprinklerclear",
+  "box": 149,
+  "question": "How does a water sprinkler work?",
+  "url": "https://glassbox.how/e/sprinklerclear/",
+  "app": "https://glassbox.how/sprinklerclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "2,000 years from a steam toy that spun in Alexandria to circles of green you can see from an aeroplane.\n\n60: A ball that spins on its own steam\n1871: A patent for watering the lawn\n1874: A sprinkler that opens by itself\n1881: Grinnell makes it dependable\n1933: The sprinkler that goes tick, tick, tick\n1942: A number for evenness\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/sprinklerclear/history (link in bio)\n\nThen play with how it works: glassbox.how/sprinklerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #sprinkler #irrigation #impactsprinkler #pressure #projectilemotion #uniformity #history",
+      "youtube": {
+        "title": "The history of the sprinkler in 45 seconds #shorts",
+        "description": "2,000 years from a steam toy that spun in Alexandria to circles of green you can see from an aeroplane.\n\n60 · A ball that spins on its own steam (Hero of Alexandria)\n1871 · A patent for watering the lawn (Joseph Lessler)\n1874 · A sprinkler that opens by itself (Henry S. Parmelee)\n1881 · Grinnell makes it dependable (Frederick Grinnell)\n1933 · The sprinkler that goes tick, tick, tick (Orton Englehart)\n1942 · A number for evenness (J. E. Christiansen)\n\n▶ Full history: https://glassbox.how/e/sprinklerclear/history/\n▶ Play with it: https://glassbox.how/e/sprinklerclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a water sprinkler work?\n\nThe tick-tick-tick sprinkler has no motor: its own jet throws an arm aside, a spring swings it back, and every tap turns the head three degrees. Watch that happen in slow motion, see why sprinklers must overlap, and find out why a fire sprinkler never sets off its neighbours.\n\n→ How does a sprinkler work? This one has no motor: the water passing through it does everything.\n→ A riser, a bearing, a nozzle, and a swinging arm with a spoon that sits in the jet.\n→ The nozzle trades pressure for speed. At 3 bar the jet leaves at 23 metres a second.\n→ The jet hits the spoon and flings the arm aside. A spring swings it back to strike the body: tick.\n→ Each tick turns the head about three degrees. A trip lever flips at the end of the arc and it chatters back.\n\nPlay with it yourself. It's free and open source: glassbox.how/sprinklerclear (link in bio)\n\nBox No. 149 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #sprinkler #irrigation #impactsprinkler #pressure #projectilemotion #uniformity #dripirrigation #firesprinkler #farming",
+    "carousel": "Swipe through: How does a water sprinkler work?\n\nThe tick-tick-tick sprinkler has no motor: its own jet throws an arm aside, a spring swings it back, and every tap turns the head three degrees. Watch that happen in slow motion, see why sprinklers must overlap, and find out why a fire sprinkler never sets off its neighbours.\n\nSave this for later, then play with the interactive version at glassbox.how/sprinklerclear (link in bio).\n\nBox No. 149 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #sprinkler #irrigation #impactsprinkler #pressure #projectilemotion #uniformity",
+    "youtube": {
+      "title": "How does a water sprinkler work? #shorts",
+      "description": "The tick-tick-tick sprinkler has no motor: its own jet throws an arm aside, a spring swings it back, and every tap turns the head three degrees. Watch that happen in slow motion, see why sprinklers must overlap, and find out why a fire sprinkler never sets off its neighbours.\n\n▶ Play with it: https://glassbox.how/e/sprinklerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/sprinklerclear\n\nBox No. 149 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a water sprinkler work? (interactive explainer)",
+      "description": "The tick-tick-tick sprinkler has no motor: its own jet throws an arm aside, a spring swings it back, and every tap turns the head three degrees. Watch that happen in slow motion, see why sprinklers must overlap, and find out why a fire sprinkler never sets off its neighbours.\n\n▶ Play with the interactive version: https://glassbox.how/e/sprinklerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/sprinklerclear\n\nIn this video:\n• No motor, just water. An impact sprinkler is a riser pipe, a bearing the head turns in, a nozzle tilted up at about 25 degrees, and a spring-loaded arm with a spoon that sits in the jet.\n• Pressure becomes speed, and air decides the throw. The nozzle turns pressure into speed: v = 0.96 × √(2P/ρ), about 23.6 m/s at 3 bar, the push of a tank 31 m up.\n• Tick: the arm strikes the body. The jet hits the spoon and flings the arm aside.\n• One sprinkler waters badly, many water well. A single sprinkler puts down most of its water close in and little at the rim.\n• Flood, sprinkler or drip. To get the same water to the roots you pump need ÷ efficiency.\n• The fire sprinkler is a different machine. Each fire sprinkler head is a valve held shut by a glass bulb of liquid that shatters at its rated temperature, 68 °C for a red bulb.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a water sprinkler work?\n\nThe tick-tick-tick sprinkler has no motor: its own jet throws an arm aside, a spring swings it back, and every tap turns the head three degrees.\n\nPlay with it: https://glassbox.how/e/sprinklerclear/",
+    "linkedin": "How does a water sprinkler work?\n\nThe tick-tick-tick sprinkler has no motor: its own jet throws an arm aside, a spring swings it back, and every tap turns the head three degrees. Watch that happen in slow motion, see why sprinklers must overlap, and find out why a fire sprinkler never sets off its neighbours.\n\n1. No motor, just water\n2. Pressure becomes speed, and air decides the throw\n3. Tick: the arm strikes the body\n4. One sprinkler waters badly, many water well\n5. Flood, sprinkler or drip\n6. The fire sprinkler is a different machine\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 149 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/sprinklerclear/\nCode: https://github.com/bdeeps/sprinklerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-05T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-05T09:53:10.450Z"
+}
